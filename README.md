@@ -1,2 +1,2 @@
 # Dsa-lab-1
-Edited locally: lab-tasks branch line for conflict demo.
+Resolved: kept the lab-tasks line and noted the GitHub edit for the conflict demo.
